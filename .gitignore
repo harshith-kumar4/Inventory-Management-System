@@ -1,0 +1,17 @@
+# Ignore IDE files
+.idea/
+.vscode/
+*.iml
+
+# Ignore Maven/Gradle directories
+/target/
+/build/
+*.log
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore environment-specific configurations
+application.properties
+application.yml
